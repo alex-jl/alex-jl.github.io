@@ -23,7 +23,6 @@ twitter_username: jekyllrb
 github_username: alex-jl
 domain: alex-jl.github.io
 url: https://alex-jl.github.io
-baseurl: /alex-jl.github.io/
 
 # Build settings
 markdown: kramdown
