@@ -10,8 +10,8 @@ footer-links:
   github: alex-jl
   linkedin: alex-jackson-lambert
 
-url: http://alex-jl.github.io/reverie
-enforce_ssl: https://alex-jl.github.io/reverie
+url: http://alexjl.dev/
+enforce_ssl: https://alexjl.dev/
 
 permalink: /:title/
 
